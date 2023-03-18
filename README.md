@@ -1,3 +1,3 @@
-# AI-Image-Genaration-WIth-NLP
+# AI-Image-Generation-WIth-NLP
 
-AI-image-Genaration-WIth-NLP
+AI-image-Generation-WIth-NLP
